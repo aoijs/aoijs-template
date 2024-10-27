@@ -1,0 +1,14 @@
+{
+  "name": "aoijs-template",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Your very own discord bot!",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^6.9.0",
+    "dotenv": "^16.4.5"
+  }
+}
